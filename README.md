@@ -4,7 +4,7 @@ T-Smart, Taekwondocuların antrenman sırasında yaptıkları teknik hataları t
 🛠️ Teknik Özellikler ve Stack
 Bu proje, modern yazılım prensipleri ve kurumsal veri yönetimi araçları kullanılarak geliştirilmiştir:
 
-Modern UI/UX: CustomTkinter ile dinamik ve karanlık mod destekli kullanıcı arayüzü.
+Modern UI/UX: CustomTkinter ile dinamik ve  kullanıcı arayüzü.
 
 Veritabanı Yönetimi: MS SQL Server entegrasyonu ve pyodbc sürücüsü ile güvenli veri depolama.
 
