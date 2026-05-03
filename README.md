@@ -47,3 +47,39 @@ python main.py
  .Mobil uygulama desteği (React Native).
 
 Geliştiren: Yiğit Doğan
+
+
+<img width="1908" height="1075" alt="image" src="https://github.com/user-attachments/assets/e2d27137-7dfc-47d4-94da-145d066113a9" />
+
+
+
+<img width="1908" height="1079" alt="image" src="https://github.com/user-attachments/assets/f08b052c-d372-4756-80d3-c72229bb767b" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/44546887-2d3d-4de8-9d13-4e6a4716f2c6" />
+
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/deb6fd77-0c34-4b65-83c7-35ebf19d053d" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7c70177e-43df-4c24-892b-05beadfd94e0" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/353e63d7-d4b2-4a43-92fd-ee0550bd66d1" />
+
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2e695c2c-7481-4e9e-a80e-0abb0bcfd3d0" />
+
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/52b0f77b-239e-43c3-b356-b6651c613fec" />
+
+<img width="595" height="506" alt="image" src="https://github.com/user-attachments/assets/b3ff3875-83a2-4298-a2f3-7e5e11f9cfc2" />
+
+<img width="1910" height="1078" alt="image" src="https://github.com/user-attachments/assets/246d854a-96df-4eeb-a01d-302f39593e7e" />
+
+
+
+
+
+
+
+
+
+
