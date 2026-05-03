@@ -47,4 +47,3 @@ python main.py
  .Mobil uygulama desteği (React Native).
 
 Geliştiren: Yiğit Doğan
-İzmir Ekonomi Üniversitesi - Bilgisayar Programcılığı
